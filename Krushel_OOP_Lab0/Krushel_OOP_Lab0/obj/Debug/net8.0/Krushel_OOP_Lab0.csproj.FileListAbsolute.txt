@@ -1,0 +1,15 @@
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\bin\Debug\net8.0\Krushel_OOP_Lab0.exe
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\bin\Debug\net8.0\Krushel_OOP_Lab0.deps.json
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\bin\Debug\net8.0\Krushel_OOP_Lab0.runtimeconfig.json
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\bin\Debug\net8.0\Krushel_OOP_Lab0.dll
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\bin\Debug\net8.0\Krushel_OOP_Lab0.pdb
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\Krushel_OOP_Lab0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\Krushel_OOP_Lab0.AssemblyInfoInputs.cache
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\Krushel_OOP_Lab0.AssemblyInfo.cs
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\Krushel_OOP_Lab0.csproj.CoreCompileInputs.cache
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\Krushel_OOP_Lab0.sourcelink.json
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\Krushel_OOP_Lab0.dll
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\refint\Krushel_OOP_Lab0.dll
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\Krushel_OOP_Lab0.pdb
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\Krushel_OOP_Lab0.genruntimeconfig.cache
+C:\Users\Denve\source\repos\Krushel_OOP_Lab0\Krushel_OOP_Lab0\obj\Debug\net8.0\ref\Krushel_OOP_Lab0.dll
